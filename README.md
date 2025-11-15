@@ -1,7 +1,3 @@
-<!-- Dark Custom Banner -->
-<p align="center">
-  <img src="https://i.imgur.com/Ec8V0DP.png" width="100%" alt="Dark Banner"/>
-</p>
 
 <h1 align="center">
   <img src="https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/gifs/wave.gif" width="35px" />
