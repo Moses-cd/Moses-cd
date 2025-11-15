@@ -1,86 +1,121 @@
-# <img src="https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/gifs/wave.gif" width="40px"/> **Hi, I'm Moses**
-
-### 🚀 *Backend Developer | API Integrator | Automation Engineer | FinTech Enthusiast*
-
-<img align="right" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="290px" />
-
-I’m a passionate developer from **Kenya 🇰🇪** focused on building **real-world systems**, especially in  
-**FinTech, automation, real-time backends & payment integrations**.
-
-I love transforming ideas into production-ready systems, solving problems, and learning new things every day.
-
----
-
-## 🛠️ **Tech Toolbox**
-
-### **Languages**
-![Python](https://img.shields.io/badge/Python-306998?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-f7df1e?style=for-the-badge&logo=javascript&logoColor=black)
-![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-
-### **Frameworks & Tools**
-![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
-![React](https://img.shields.io/badge/React-20232a?style=for-the-badge&logo=react&logoColor=61dafb)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-ffffff?style=for-the-badge&logo=flask&logoColor=black)
-![Docker](https://img.shields.io/badge/Docker-0db7ed?style=for-the-badge&logo=docker&logoColor=white)
-
-### **Databases**
-![MongoDB](https://img.shields.io/badge/MongoDB-4DB33D?style=for-the-badge&logo=mongodb&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
-
-### **Payments & APIs**
-![M-Pesa](https://img.shields.io/badge/M--Pesa-Daraja_API-brightgreen?style=for-the-badge)
-![Pesapal](https://img.shields.io/badge/Pesapal-API-black?style=for-the-badge)
-
----
-
-## 🚀 **Current Projects**
-- 💳 **Real-Time Payment System** (Wallets, STK Push, Withdrawals, Profit Engine)  
-- 🔎 **Crunchbase Cloudflare Scraper** (browser-based automation)  
-- ☁️ **Queue Management System (RTQMS)**  
-- 🧾 **MongoDB Wallet + Transaction Microservice**
-
----
-
-## 📈 **GitHub Stats & Graphs**
-
+<!-- CYBERPUNK DARK BANNER -->
 <p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=moses-cd&show_icons=true&theme=tokyonight" />
-  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=moses-cd&theme=tokyonight" />
+  <img src="https://i.imgur.com/cYVx4xY.gif" width="100%" alt="Cyberpunk Banner"/>
 </p>
 
+<h1 align="center">
+  <img src="https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/gifs/wave.gif" width="35px" />
+  <span style="color:#00eaff; text-shadow:0 0 15px #00eaff;">Moses</span>
+</h1>
+
+<h3 align="center" style="color:#ff00ff; text-shadow: 0 0 15px #ff00ff;">
+  🚀 Backend • 🎨 Frontend • 🧩 API Integrator • ⚙️ Automation Developer • 🖌️ Graphic Designer
+</h3>
+
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=moses-cd&theme=tokyo-night" />
+  <img src="https://i.imgur.com/8h7Fz4k.gif" width="300px" />
 </p>
 
 ---
 
-## 📚 **What I'm Learning Now**
-- ☁️ Cloud Computing (AWS basics)  
-- 🔐 Advanced API Security  
-- 🧮 Database Optimization  
-- ⚙️ Automation & System Scaling  
+# 🌑 **About Me**
+
+I’m a passionate developer from **Kenya 🇰🇪** specializing in **FinTech, automation, cyber UI/UX, and real-time systems**.  
+
+💠 My focus:  
+
+- 🔥 Backend Engineering  
+- 🎨 Frontend Development & UI Design  
+- 🧩 API Integrations (M-Pesa, Pesapal, Crypto)  
+- 🖌️ Graphic Design & Branding  
+- ⚡ Automation & Real-time Systems  
+
+I love building systems that **feel futuristic and cyberpunk** while being **production-ready**.
 
 ---
 
-## 📬 **Let’s Connect**
-📧 Email: **moses15279@gmail.com**  
-💼 LinkedIn: *(optional — add if you want)*  
-🐦 Twitter/X: *(optional)*  
+# 🛠️ **Tech Toolbox**
+
+## 🔹 Languages
+![Python](https://img.shields.io/badge/Python-00eaff?style=for-the-badge&logo=python&logoColor=black)
+![JavaScript](https://img.shields.io/badge/JavaScript-ffdd00?style=for-the-badge&logo=javascript&logoColor=black)
+![Node.js](https://img.shields.io/badge/Node.js-00ff88?style=for-the-badge&logo=node.js&logoColor=black)
+![PHP](https://img.shields.io/badge/PHP-9A4FEE?style=for-the-badge&logo=php&logoColor=white)
+
+## 🔹 Frontend
+![React](https://img.shields.io/badge/React-00eaff?style=for-the-badge&logo=react&logoColor=61dafb)
+![HTML](https://img.shields.io/badge/HTML5-ff0066?style=for-the-badge&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS3-0066ff?style=for-the-badge&logo=css3&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/TailwindCSS-00ffc8?style=for-the-badge&logo=tailwindcss&logoColor=black)
+
+## 🔹 Backend & Frameworks
+![Express.js](https://img.shields.io/badge/Express.js-111111?style=for-the-badge&logo=express&logoColor=00eaff)
+![FastAPI](https://img.shields.io/badge/FastAPI-00ffc8?style=for-the-badge&logo=fastapi&logoColor=black)
+![Flask](https://img.shields.io/badge/Flask-ffffff?style=for-the-badge&logo=flask&logoColor=000000)
+![Docker](https://img.shields.io/badge/Docker-0066ff?style=for-the-badge&logo=docker&logoColor=white)
+
+## 🔹 Graphic Design
+![Photoshop](https://img.shields.io/badge/Photoshop-001e36?style=for-the-badge&logo=adobephotoshop&logoColor=31a8ff)
+![Illustrator](https://img.shields.io/badge/Illustrator-330000?style=for-the-badge&logo=adobeillustrator&logoColor=ff9a00)
+![Canva](https://img.shields.io/badge/Canva-00c4cc?style=for-the-badge&logo=canva&logoColor=black)
+
+## 🔹 Payments & APIs
+![M-Pesa](https://img.shields.io/badge/M--Pesa-Cyber_API-00ff88?style=for-the-badge)
+![Pesapal](https://img.shields.io/badge/Pesapal-Neon_API-9A4FEE?style=for-the-badge)
+![Crypto](https://img.shields.io/badge/USDT-Blockchain-ff00ff?style=for-the-badge)
+
+## 🔹 Databases
+![MongoDB](https://img.shields.io/badge/MongoDB-00ff88?style=for-the-badge&logo=mongodb&logoColor=black)
+![MySQL](https://img.shields.io/badge/MySQL-0066ff?style=for-the-badge&logo=mysql&logoColor=white)
 
 ---
 
-## ⚡ Fun Fact
-I enjoy building systems that **automate money flow** — especially using **M-Pesa Daraja APIs**, **crypto tools**, and **automation engines**.
+# 🚀 **Current Projects**
+- 💳 **FinTech Engine** – Real-time wallets, STK Push, crypto logic  
+- 🔎 **Crunchbase Cyber Scraper** (Cloudflare bypass)  
+- 🧾 **MongoDB Wallet + Transaction System**  
+- ☁️ **RTQMS (Real-Time Queue Management System)**  
+- 🎨 **Neon UI Systems with React + Tailwind**  
+- 🛠️ **Automation & Backend Scaling Projects**
 
 ---
 
-## 🎯 Want an Even More Advanced Version?
-I can add:
-- 3D GitHub skyline  
-- Moving SVG banners  
-- Dynamic “now playing” music widget  
-- A dark minimal version  
-Just tell me!
+# 📊 **GitHub Stats**
+<p align="center">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=moses-cd&show_icons=true&theme=chartreuse-dark&hide_border=true" />
+  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com?user=moses-cd&theme=neon-dark&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=moses-cd&theme=tokyo-night&hide_border=true&area=true" />
+</p>
+
+---
+
+# 🧠 **Currently Learning**
+- Cyberpunk-inspired UI/UX  
+- Cloud systems (AWS, Serverless)  
+- Advanced API security & encryption  
+- Database optimization & scaling  
+- Motion graphics + neon animations  
+
+---
+
+# 📬 **Contact Me**
+📧 **moses15279@gmail.com**  
+🌐 Portfolio Website – *Coming Soon*  
+💼 LinkedIn – optional  
+🐦 Twitter/X – optional  
+
+---
+
+# 💜 **Fun Fact**
+I love building systems that **look and feel like they’re from a neon-lit futuristic city**, combining **FinTech + Automation + Cyberpunk UI + High-security APIs**.
+
+---
+
+# 🎨 **Custom Cyberpunk Banner / Avatar**
+I can design:
+- Neon glowing logos  
+- 3D futuristic avatars  
+- Cyberpunk hacker-style banners  
